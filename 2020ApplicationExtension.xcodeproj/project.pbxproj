@@ -17,6 +17,7 @@
 		6520DC1625BE9A2100A4A1B5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6520DC1525BE9A2100A4A1B5 /* main.m */; };
 		6520DC2025BE9A2100A4A1B5 /* _020ApplicationExtensionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6520DC1F25BE9A2100A4A1B5 /* _020ApplicationExtensionTests.m */; };
 		6520DC2B25BE9A2100A4A1B5 /* _020ApplicationExtensionUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6520DC2A25BE9A2100A4A1B5 /* _020ApplicationExtensionUITests.m */; };
+		6520DC3C25BE9D0C00A4A1B5 /* iOS - App Extension 整体总结 - 俊华的博客 - 博客园.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6520DC3B25BE9D0C00A4A1B5 /* iOS - App Extension 整体总结 - 俊华的博客 - 博客园.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		6520DC2625BE9A2100A4A1B5 /* 2020ApplicationExtensionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2020ApplicationExtensionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6520DC2A25BE9A2100A4A1B5 /* _020ApplicationExtensionUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _020ApplicationExtensionUITests.m; sourceTree = "<group>"; };
 		6520DC2C25BE9A2100A4A1B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6520DC3B25BE9D0C00A4A1B5 /* iOS - App Extension 整体总结 - 俊华的博客 - 博客园.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "iOS - App Extension 整体总结 - 俊华的博客 - 博客园.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 		6520DBFF25BE9A1E00A4A1B5 /* 2020ApplicationExtension */ = {
 			isa = PBXGroup;
 			children = (
+				6520DC3B25BE9D0C00A4A1B5 /* iOS - App Extension 整体总结 - 俊华的博客 - 博客园.pdf */,
 				6520DC0025BE9A1E00A4A1B5 /* AppDelegate.h */,
 				6520DC0125BE9A1E00A4A1B5 /* AppDelegate.m */,
 				6520DC0325BE9A1E00A4A1B5 /* SceneDelegate.h */,
@@ -242,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6520DC3C25BE9D0C00A4A1B5 /* iOS - App Extension 整体总结 - 俊华的博客 - 博客园.pdf in Resources */,
 				6520DC1325BE9A2100A4A1B5 /* LaunchScreen.storyboard in Resources */,
 				6520DC1025BE9A2100A4A1B5 /* Assets.xcassets in Resources */,
 				6520DC0B25BE9A1E00A4A1B5 /* Main.storyboard in Resources */,
